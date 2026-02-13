@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables (IMPORTANT - Don't push API keys!)
+.env
+.env.local
+.env.*.local
+
+# Output Files (Optional - uncomment if you don't want to push outputs)
+# output/
+# output/reports/
+# output/logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Data Files (Optional - uncomment if data is large)
+# data/*.xlsx
+# data/*.csv
+
+# Temporary Files
+*.tmp
+*.bak
+*.cache
+.pytest_cache/

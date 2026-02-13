@@ -1,0 +1,291 @@
+{
+    "ap_kpis": {
+        "SPEND_PERFORMANCE_KPIs": {
+            "total_spend": 2925026284.7400002,
+            "monthly_spend_trend": {
+                "2025-01": 241122505.96,
+                "2025-02": 203244199.28,
+                "2025-03": 278504423.65,
+                "2025-04": 235540595.21,
+                "2025-05": 239620879.54,
+                "2025-06": 224389502.92,
+                "2025-07": 245627929.14000002,
+                "2025-08": 233889244.96,
+                "2025-09": 253702134.24,
+                "2025-10": 264596316.6,
+                "2025-11": 247234278.36,
+                "2025-12": 257554274.88
+            },
+            "monthly_region_distribution_pct": {
+                "2025-01": {
+                    "East": 27.05,
+                    "North": 19.78,
+                    "South": 24.05,
+                    "West": 29.12
+                },
+                "2025-02": {
+                    "East": 26.13,
+                    "North": 20.98,
+                    "South": 24.9,
+                    "West": 27.99
+                },
+                "2025-03": {
+                    "East": 29.73,
+                    "North": 18.46,
+                    "South": 22.58,
+                    "West": 29.23
+                },
+                "2025-04": {
+                    "East": 26.52,
+                    "North": 18.47,
+                    "South": 23.26,
+                    "West": 31.75
+                },
+                "2025-05": {
+                    "East": 27.4,
+                    "North": 19.32,
+                    "South": 22.78,
+                    "West": 30.5
+                },
+                "2025-06": {
+                    "East": 26.69,
+                    "North": 19.22,
+                    "South": 24.86,
+                    "West": 29.23
+                },
+                "2025-07": {
+                    "East": 26.75,
+                    "North": 18.97,
+                    "South": 22.75,
+                    "West": 31.52
+                },
+                "2025-08": {
+                    "East": 25.71,
+                    "North": 19.02,
+                    "South": 25.46,
+                    "West": 29.81
+                },
+                "2025-09": {
+                    "East": 26.38,
+                    "North": 17.01,
+                    "South": 24.68,
+                    "West": 31.92
+                },
+                "2025-10": {
+                    "East": 26.23,
+                    "North": 19.98,
+                    "South": 22.94,
+                    "West": 30.85
+                },
+                "2025-11": {
+                    "East": 29.54,
+                    "North": 17.41,
+                    "South": 25.88,
+                    "West": 27.16
+                },
+                "2025-12": {
+                    "East": 27.67,
+                    "North": 18.63,
+                    "South": 22.92,
+                    "West": 30.78
+                }
+            },
+            "monthly_business_unit_distribution_pct": {
+                "2025-01": {
+                    "Consumer": 36.99,
+                    "Enterprise": 24.39,
+                    "SMB": 38.61
+                },
+                "2025-02": {
+                    "Consumer": 38.29,
+                    "Enterprise": 23.93,
+                    "SMB": 37.77
+                },
+                "2025-03": {
+                    "Consumer": 42.63,
+                    "Enterprise": 20.75,
+                    "SMB": 36.61
+                },
+                "2025-04": {
+                    "Consumer": 39.38,
+                    "Enterprise": 24.14,
+                    "SMB": 36.49
+                },
+                "2025-05": {
+                    "Consumer": 39.0,
+                    "Enterprise": 25.94,
+                    "SMB": 35.05
+                },
+                "2025-06": {
+                    "Consumer": 38.52,
+                    "Enterprise": 23.6,
+                    "SMB": 37.88
+                },
+                "2025-07": {
+                    "Consumer": 41.16,
+                    "Enterprise": 23.39,
+                    "SMB": 35.45
+                },
+                "2025-08": {
+                    "Consumer": 40.6,
+                    "Enterprise": 21.79,
+                    "SMB": 37.6
+                },
+                "2025-09": {
+                    "Consumer": 40.07,
+                    "Enterprise": 23.68,
+                    "SMB": 36.26
+                },
+                "2025-10": {
+                    "Consumer": 40.51,
+                    "Enterprise": 24.19,
+                    "SMB": 35.31
+                },
+                "2025-11": {
+                    "Consumer": 39.25,
+                    "Enterprise": 24.01,
+                    "SMB": 36.73
+                },
+                "2025-12": {
+                    "Consumer": 39.65,
+                    "Enterprise": 24.96,
+                    "SMB": 35.38
+                }
+            },
+            "monthly_category_distribution_pct": {
+                "2025-01": {
+                    "Cloud": 25.87,
+                    "Facilities": 12.69,
+                    "IT Services": 18.82,
+                    "Logistics": 9.81,
+                    "Marketing": 9.82,
+                    "Professional Services": 19.1,
+                    "Travel": 3.89
+                },
+                "2025-02": {
+                    "Cloud": 23.63,
+                    "Facilities": 10.87,
+                    "IT Services": 20.45,
+                    "Logistics": 10.12,
+                    "Marketing": 10.31,
+                    "Professional Services": 21.3,
+                    "Travel": 3.33
+                },
+                "2025-03": {
+                    "Cloud": 26.13,
+                    "Facilities": 12.81,
+                    "IT Services": 18.02,
+                    "Logistics": 10.09,
+                    "Marketing": 8.3,
+                    "Professional Services": 21.39,
+                    "Travel": 3.27
+                },
+                "2025-04": {
+                    "Cloud": 27.09,
+                    "Facilities": 10.15,
+                    "IT Services": 20.06,
+                    "Logistics": 9.82,
+                    "Marketing": 10.65,
+                    "Professional Services": 19.01,
+                    "Travel": 3.22
+                },
+                "2025-05": {
+                    "Cloud": 28.83,
+                    "Facilities": 10.84,
+                    "IT Services": 19.07,
+                    "Logistics": 9.84,
+                    "Marketing": 11.54,
+                    "Professional Services": 16.72,
+                    "Travel": 3.16
+                },
+                "2025-06": {
+                    "Cloud": 27.81,
+                    "Facilities": 10.42,
+                    "IT Services": 19.44,
+                    "Logistics": 9.85,
+                    "Marketing": 10.48,
+                    "Professional Services": 18.22,
+                    "Travel": 3.79
+                },
+                "2025-07": {
+                    "Cloud": 26.35,
+                    "Facilities": 10.85,
+                    "IT Services": 18.96,
+                    "Logistics": 9.43,
+                    "Marketing": 11.64,
+                    "Professional Services": 20.04,
+                    "Travel": 2.74
+                },
+                "2025-08": {
+                    "Cloud": 27.93,
+                    "Facilities": 11.88,
+                    "IT Services": 19.16,
+                    "Logistics": 9.64,
+                    "Marketing": 10.33,
+                    "Professional Services": 17.87,
+                    "Travel": 3.18
+                },
+                "2025-09": {
+                    "Cloud": 23.06,
+                    "Facilities": 9.8,
+                    "IT Services": 18.98,
+                    "Logistics": 10.23,
+                    "Marketing": 11.51,
+                    "Professional Services": 22.98,
+                    "Travel": 3.43
+                },
+                "2025-10": {
+                    "Cloud": 29.03,
+                    "Facilities": 10.87,
+                    "IT Services": 20.42,
+                    "Logistics": 9.04,
+                    "Marketing": 10.94,
+                    "Professional Services": 16.28,
+                    "Travel": 3.43
+                },
+                "2025-11": {
+                    "Cloud": 26.65,
+                    "Facilities": 10.1,
+                    "IT Services": 19.98,
+                    "Logistics": 10.33,
+                    "Marketing": 10.92,
+                    "Professional Services": 18.29,
+                    "Travel": 3.74
+                },
+                "2025-12": {
+                    "Cloud": 25.02,
+                    "Facilities": 10.68,
+                    "IT Services": 18.19,
+                    "Logistics": 10.07,
+                    "Marketing": 10.17,
+                    "Professional Services": 22.49,
+                    "Travel": 3.38
+                }
+            }
+        }
+    },
+    "ap_insights": {
+        "SPEND_PERFORMANCE_KPIs": {
+            "total_spend": [
+                "Total spend indicates a significant investment, reflecting potential robust operational activity.",
+                "Monitoring variations in total spend can help identify areas needing cost control measures."
+            ],
+            "monthly_spend_trend": [
+                "The spending trend peaked in March 2025, suggesting a temporary surge in operations or procurement.",
+                "Consistent monthly fluctuations imply seasonal demand variability affecting budget forecasts."
+            ],
+            "monthly_region_distribution_pct": [
+                "The West region consistently accounts for the highest spending percentage, indicating strategic focus on this market.",
+                "Changes in regional distribution percentages show shifting priorities or resource allocations among regions."
+            ],
+            "monthly_business_unit_distribution_pct": [
+                "Consumer unit shows increasing spend share, indicating growing market demand in this segment.",
+                "Enterprise and SMB units maintain relatively stable shares, suggesting targeted strategies needed for growth."
+            ],
+            "monthly_category_distribution_pct": [
+                "Cloud expenditure's increasing share underscores its critical role in overall strategic direction.",
+                "Professional Services exhibit notable variability, indicating fluctuating project needs or vendor engagements."
+            ]
+        }
+    }
+}

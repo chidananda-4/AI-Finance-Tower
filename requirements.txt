@@ -1,0 +1,17 @@
+crewai
+openai
+langchain
+crewai-tools
+duckduckgo-search
+yfinance
+python-dotenv
+pandas
+numpy
+matplotlib
+crewai_tools
+python-pptx 
+scipy
+openpyxl
+streamlit
+plotly
+seaborn

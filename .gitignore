@@ -44,7 +44,7 @@ venv.bak/
 # output/
 # output/reports/
 # output/logs/
-
+config/
 # OS Files
 .DS_Store
 Thumbs.db

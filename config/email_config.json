@@ -1,0 +1,7 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "tarai.chidananda1991@gmail.com",
+    "sender_password": "jdax hixi xprc muyu",
+    "recipient_emails": ["chidananda.tarai@gmail.com","chidananda.tarai1991@gmail.com"]
+}

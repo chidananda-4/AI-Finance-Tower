@@ -54,7 +54,7 @@ Thumbs.db
 # Data Files (Optional - uncomment if data is large)
 # data/*.xlsx
 # data/*.csv
-
+*.json
 # Temporary Files
 *.tmp
 *.bak

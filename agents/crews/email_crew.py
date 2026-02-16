@@ -80,8 +80,8 @@ class EmailCrew:
             role="Executive Email Writer",
             goal="Craft clear, professional, and impactful email content",
             backstory="""You are an expert business writer who has drafted thousands of executive emails.
-            You know how to strike the perfect tone - professional yet approachable, concise yet complete.
-            Your emails are always well-structured and easy to read. You focus on clarity and impact.""",
+            You know how to strike the perfect neutral tone - professional yet approachable, concise yet complete.
+            Your emails are always well-structured and easy to read. You focus on clarity and impact.Treat all the currency in inr""",
             verbose=True,
             allow_delegation=True,
             llm=self.llm,
